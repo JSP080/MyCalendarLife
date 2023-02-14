@@ -1,3 +1,4 @@
 Versiones
 
 Día 12 de feb de 2023: Sin cambios.
+Día 14 de feb de 2023: Cambio de bloque de 10am a 12pm, Computing Science II Study -> Vector Calculus Study
